@@ -7,7 +7,7 @@ TLDR: We estimate a model's tolerated deviation from orthogonality, $\varepsilon
   <img width="480" height="486" alt="image" src="https://github.com/user-attachments/assets/eb44d807-5da5-4902-b8bc-2273842e16cd" />
 </p>
 
-This repository contains a preprint version of [my Master's thesis](https://keep.lib.asu.edu/items/204857), along with the code for analyses and graph making.
+This repository contains a preprint version of [my Master's thesis](https://keep.lib.asu.edu/items/204857), along with the code for analyses and graph making. The preprint is on arXiv: [arXiv:2606.02765](https://arxiv.org/abs/2606.02765).
 
 ## License
 
